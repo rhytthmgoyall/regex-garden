@@ -12,4 +12,4 @@ The script uses a tiny regex engine supporting literals, empty string (`ε`), un
 It works by parsing your expression into a syntax tree and then converting it to a Thompson NFA to correctly evaluate expressions and inputs.
 
 ## Getting Started
-Just open `index.html` in your favorite modern browser to start planting!
+Just open `regex-garden.html` in your favorite modern browser to start planting!
